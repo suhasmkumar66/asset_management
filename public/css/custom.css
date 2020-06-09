@@ -1,0 +1,50 @@
+.web {
+	display:block;	
+}
+.mobile{
+	display:none;
+}
+
+@media screen and (max-width: 900px) and (min-width: 200px) {
+	.web {
+	display:none !important;	
+	}
+	.mobile{
+		display:block !important;
+	}
+	.w-100{
+		width: 100%;
+	}
+	.float-none{
+		float:unset !important;
+	}	
+	.remove-borders{
+		    padding: 0px !important;
+		    border-top: 0px solid transparent !important;
+		    border-bottom: 0px solid transparent !important;
+	}
+	.right-56{
+		right: 56% !important;
+	}
+	.btn.focus, .btn:focus, .btn:hover {
+    	color: #3c8dbc !important;
+	}
+	.fixed-table-body .card-view .title{
+		    min-width: 45% !important;
+	}
+	.card-view{
+		    margin-bottom: 6px;
+	}
+	.required{
+		    border-right: 0px !important;
+	}
+	.icon-list li{
+		    width: 20%;
+	}
+	.header{
+		width:100% !important;
+	}
+	.user-menu{
+		width:auto !important;
+	}
+}
