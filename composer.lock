@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "751565d469d5e88f80dda2f5ed6efa54",
+    "content-hash": "8e77fff5b57b4613cc40d7bfb83ffd8b",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -47,7 +47,7 @@
             "authors": [
                 {
                     "name": "Alexander",
-                    "email": "iam.asm89@"
+                    "email": "iam.asm89@gmail.com"
                 }
             ],
             "description": "Cross-origin resource sharing library and stack middleware",
@@ -112,12 +112,12 @@
             "version": "v0.11.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/barryvdh/laravel-cors.git",
+                "url": "https://github.com/fruitcake/laravel-cors.git",
                 "reference": "03492f1a3bc74a05de23f93b94ac7cc5c173eec9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-cors/zipball/03492f1a3bc74a05de23f93b94ac7cc5c173eec9",
+                "url": "https://api.github.com/repos/fruitcake/laravel-cors/zipball/03492f1a3bc74a05de23f93b94ac7cc5c173eec9",
                 "reference": "03492f1a3bc74a05de23f93b94ac7cc5c173eec9",
                 "shasum": ""
             },
@@ -157,7 +157,7 @@
             "authors": [
                 {
                     "name": "Barry vd. Heuvel",
-                    "email": "barryvdh@"
+                    "email": "barryvdh@gmail.com"
                 }
             ],
             "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
@@ -224,7 +224,7 @@
             "authors": [
                 {
                     "name": "Barry vd. Heuvel",
-                    "email": "barryvdh@"
+                    "email": "barryvdh@gmail.com"
                 }
             ],
             "description": "PHP Debugbar integration for Laravel",
@@ -415,7 +415,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -427,11 +427,11 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 }
             ],
             "description": "Docblock Annotations Parser",
@@ -491,7 +491,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -503,11 +503,11 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Cache library is a popular cache implementation that supports many different drivers such as redis, memcache, apc, mongodb and others.",
@@ -572,15 +572,15 @@
                 },
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 }
             ],
             "description": "Collections Abstraction library",
@@ -643,7 +643,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -655,15 +655,15 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 },
                 {
                     "name": "Marco Pivetta",
-                    "email": "ocramius@"
+                    "email": "ocramius@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Common project is a library that provides additional functionality that other Doctrine projects depend on such as better reflection support, persistence interfaces, proxies, event system and much more.",
@@ -736,11 +736,11 @@
                 },
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 }
             ],
             "description": "Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management.",
@@ -799,7 +799,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -811,15 +811,15 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 },
                 {
                     "name": "Marco Pivetta",
-                    "email": "ocramius@"
+                    "email": "ocramius@gmail.com"
                 }
             ],
             "description": "The Doctrine Event Manager is a simple PHP event system that was built to be used with the various Doctrine projects.",
@@ -871,7 +871,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -883,11 +883,11 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 }
             ],
             "description": "Common String Manipulations with regard to casing and singular/plural rules.",
@@ -944,7 +944,7 @@
             "authors": [
                 {
                     "name": "Marco Pivetta",
-                    "email": "ocramius@",
+                    "email": "ocramius@gmail.com",
                     "homepage": "http://ocramius.github.com/"
                 }
             ],
@@ -998,11 +998,11 @@
                 },
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
@@ -1064,7 +1064,7 @@
             "authors": [
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Roman Borschel",
@@ -1076,15 +1076,15 @@
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 },
                 {
                     "name": "Marco Pivetta",
-                    "email": "ocramius@"
+                    "email": "ocramius@gmail.com"
                 }
             ],
             "description": "The Doctrine Persistence project is a set of shared interfaces and functionality that the different Doctrine object mappers share.",
@@ -1151,19 +1151,19 @@
                 },
                 {
                     "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@"
+                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Jonathan Wage",
-                    "email": "jonwage@"
+                    "email": "jonwage@gmail.com"
                 },
                 {
                     "name": "Johannes Schmitt",
-                    "email": "schmittjoh@"
+                    "email": "schmittjoh@gmail.com"
                 },
                 {
                     "name": "Marco Pivetta",
-                    "email": "ocramius@"
+                    "email": "ocramius@gmail.com"
                 }
             ],
             "description": "Doctrine Reflection component",
@@ -1171,6 +1171,7 @@
             "keywords": [
                 "reflection"
             ],
+            "abandoned": "roave/better-reflection",
             "time": "2018-06-14T14:45:07+00:00"
         },
         {
@@ -1463,7 +1464,7 @@
             "authors": [
                 {
                     "name": "Chris Fidao",
-                    "email": "fideloper@"
+                    "email": "fideloper@gmail.com"
                 }
             ],
             "description": "Set trusted proxies for Laravel",
@@ -1569,7 +1570,7 @@
             "authors": [
                 {
                     "name": "Michael Dowling",
-                    "email": "mtdowling@",
+                    "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 }
             ],
@@ -1627,7 +1628,7 @@
             "authors": [
                 {
                     "name": "Michael Dowling",
-                    "email": "mtdowling@",
+                    "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 }
             ],
@@ -1687,7 +1688,7 @@
             "authors": [
                 {
                     "name": "Michael Dowling",
-                    "email": "mtdowling@",
+                    "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 },
                 {
@@ -1815,9 +1816,10 @@
             "authors": [
                 {
                     "name": "Jakub Onderka",
-                    "email": "jakub.onderka@"
+                    "email": "jakub.onderka@gmail.com"
                 }
             ],
+            "abandoned": "php-parallel-lint/php-console-color",
             "time": "2018-09-29T17:23:10+00:00"
         },
         {
@@ -1864,6 +1866,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+            "abandoned": "php-parallel-lint/php-console-highlighter",
             "time": "2018-09-29T18:48:56+00:00"
         },
         {
@@ -2052,7 +2055,7 @@
             "authors": [
                 {
                     "name": "Kyle",
-                    "email": "kylekatarnls@"
+                    "email": "kylekatarnls@gmail.com"
                 }
             ],
             "description": "Update helper",
@@ -2180,7 +2183,7 @@
             ],
             "authors": [
                 {
-                    "name": "Suhas M",
+                    "name": "Taylor Otwell",
                     "email": "taylor@laravel.com"
                 }
             ],
@@ -2249,7 +2252,7 @@
             ],
             "authors": [
                 {
-                    "name": "Suhas M",
+                    "name": "Taylor Otwell",
                     "email": "taylor@laravel.com"
                 }
             ],
@@ -2311,7 +2314,7 @@
             ],
             "authors": [
                 {
-                    "name": "Suhas M",
+                    "name": "Taylor Otwell",
                     "email": "taylor@laravel.com"
                 }
             ],
@@ -2380,8 +2383,8 @@
             ],
             "authors": [
                 {
-                    "name": "Suhas M",
-                    "email": "asset@gmail.com@"
+                    "name": "Taylor Otwell",
+                    "email": "taylorotwell@gmail.com"
                 },
                 {
                     "name": "Adam Engebretson",
@@ -2436,8 +2439,8 @@
             "authors": [
                 {
                     "name": "Luís Otávio Cobucci Oblonczyk",
-                    "role": "Developer",
-                    "email": "lcobucci@"
+                    "email": "lcobucci@gmail.com",
+                    "role": "Developer"
                 }
             ],
             "description": "A simple library to work with JSON Web Token and JSON Web Signature",
@@ -2499,7 +2502,7 @@
             "authors": [
                 {
                     "name": "Ignace Nyamagana Butera",
-                    "email": "nyamsprod@",
+                    "email": "nyamsprod@gmail.com",
                     "homepage": "https://github.com/nyamsprod/",
                     "role": "Developer"
                 }
@@ -2812,12 +2815,12 @@
             "authors": [
                 {
                     "name": "Maxime Bouroumeau-Fuseau",
-                    "email": "maxime.bouroumeau@",
+                    "email": "maxime.bouroumeau@gmail.com",
                     "homepage": "http://maximebf.com"
                 },
                 {
                     "name": "Barry vd. Heuvel",
-                    "email": "barryvdh@"
+                    "email": "barryvdh@gmail.com"
                 }
             ],
             "description": "Debug bar in the browser for php application",
@@ -3014,7 +3017,7 @@
             "authors": [
                 {
                     "name": "Michael Dowling",
-                    "email": "mtdowling@",
+                    "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 }
             ],
@@ -3023,6 +3026,7 @@
                 "cron",
                 "schedule"
             ],
+            "abandoned": "dragonmantank/cron-expression",
             "time": "2017-01-23T04:29:33+00:00"
         },
         {
@@ -3055,7 +3059,7 @@
             "authors": [
                 {
                     "name": "Sebastián Grignoli",
-                    "email": "grignoli@"
+                    "email": "grignoli@gmail.com"
                 }
             ],
             "description": "PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.",
@@ -3346,6 +3350,7 @@
                 "utf-8",
                 "utf8"
             ],
+            "abandoned": "symfony/polyfill-mbstring or symfony/string",
             "time": "2019-12-03T14:44:12+00:00"
         },
         {
@@ -3500,16 +3505,16 @@
         },
         {
             "name": "phpseclib/phpseclib",
-            "version": "2.0.23",
+            "version": "2.0.31",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "c78eb5058d5bb1a183133c36d4ba5b6675dfa099"
+                "reference": "233a920cb38636a43b18d428f9a8db1f0a1a08f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/c78eb5058d5bb1a183133c36d4ba5b6675dfa099",
-                "reference": "c78eb5058d5bb1a183133c36d4ba5b6675dfa099",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/233a920cb38636a43b18d428f9a8db1f0a1a08f4",
+                "reference": "233a920cb38636a43b18d428f9a8db1f0a1a08f4",
                 "shasum": ""
             },
             "require": {
@@ -3517,8 +3522,7 @@
             },
             "require-dev": {
                 "phing/phing": "~2.7",
-                "phpunit/phpunit": "^4.8.35|^5.7|^6.0",
-                "sami/sami": "~2.0",
+                "phpunit/phpunit": "^4.8.35|^5.7|^6.0|^9.4",
                 "squizlabs/php_codesniffer": "~2.0"
             },
             "suggest": {
@@ -3588,7 +3592,21 @@
                 "x.509",
                 "x509"
             ],
-            "time": "2019-09-17T03:41:22+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/terrafrost",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/phpseclib",
+                    "type": "patreon"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpseclib/phpseclib",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-04-06T13:56:45+00:00"
         },
         {
             "name": "phpspec/prophecy",
@@ -3633,12 +3651,12 @@
             "authors": [
                 {
                     "name": "Konstantin Kudryashov",
-                    "email": "ever.zet@",
+                    "email": "ever.zet@gmail.com",
                     "homepage": "http://everzet.com"
                 },
                 {
                     "name": "Marcello Duarte",
-                    "email": "marcello.duarte@"
+                    "email": "marcello.duarte@gmail.com"
                 }
             ],
             "description": "Highly opinionated mocking framework for PHP 5.3+",
@@ -3843,12 +3861,12 @@
             "version": "v1.1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/nrk/predis.git",
+                "url": "https://github.com/predis/predis.git",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nrk/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
+                "url": "https://api.github.com/repos/predis/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "shasum": ""
             },
@@ -3875,7 +3893,7 @@
             "authors": [
                 {
                     "name": "Daniele Alessandri",
-                    "email": "suppakilla@",
+                    "email": "suppakilla@gmail.com",
                     "homepage": "http://clorophilla.net"
                 }
             ],
@@ -3885,6 +3903,16 @@
                 "nosql",
                 "predis",
                 "redis"
+            ],
+            "funding": [
+                {
+                    "url": "https://www.paypal.me/tillkruss",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/tillkruss",
+                    "type": "github"
+                }
             ],
             "time": "2016-06-16T16:22:20+00:00"
         },
@@ -4190,7 +4218,7 @@
             "authors": [
                 {
                     "name": "Ralph Khattar",
-                    "email": "ralph.khattar@"
+                    "email": "ralph.khattar@gmail.com"
                 }
             ],
             "description": "A polyfill for getallheaders.",
@@ -4267,7 +4295,7 @@
                 },
                 {
                     "name": "Marijn Huizendveld",
-                    "email": "marijn.huizendveld@"
+                    "email": "marijn.huizendveld@gmail.com"
                 },
                 {
                     "name": "Thibaud Fabre",
@@ -4395,7 +4423,7 @@
                 },
                 {
                     "name": "Artur Moczulski",
-                    "email": "artur.moczulski@",
+                    "email": "artur.moczulski@gmail.com",
                     "role": "Contractor @ Rollbar, Inc."
                 }
             ],
@@ -4507,7 +4535,7 @@
             "authors": [
                 {
                     "name": "Jeff Welch",
-                    "email": "whatthejeff@"
+                    "email": "whatthejeff@gmail.com"
                 },
                 {
                     "name": "Volker Dusch",
@@ -4627,7 +4655,7 @@
                 },
                 {
                     "name": "Jeff Welch",
-                    "email": "whatthejeff@"
+                    "email": "whatthejeff@gmail.com"
                 },
                 {
                     "name": "Volker Dusch",
@@ -4639,7 +4667,7 @@
                 },
                 {
                     "name": "Bernhard Schussek",
-                    "email": "bschussek@"
+                    "email": "bschussek@gmail.com"
                 }
             ],
             "description": "Provides the functionality to export PHP variables for visualization",
@@ -4688,7 +4716,7 @@
             "authors": [
                 {
                     "name": "Jeff Welch",
-                    "email": "whatthejeff@"
+                    "email": "whatthejeff@gmail.com"
                 },
                 {
                     "name": "Sebastian Bergmann",
@@ -5412,7 +5440,7 @@
             "authors": [
                 {
                     "name": "Gert de Pagter",
-                    "email": "BackEndTea@"
+                    "email": "BackEndTea@gmail.com"
                 },
                 {
                     "name": "Symfony Community",
@@ -6318,12 +6346,12 @@
             "version": "v0.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/tightenco/ziggy.git",
+                "url": "https://github.com/tighten/ziggy.git",
                 "reference": "aa4c42aaec9516da892bc2e9f6e992582646af77"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/ziggy/zipball/aa4c42aaec9516da892bc2e9f6e992582646af77",
+                "url": "https://api.github.com/repos/tighten/ziggy/zipball/aa4c42aaec9516da892bc2e9f6e992582646af77",
                 "reference": "aa4c42aaec9516da892bc2e9f6e992582646af77",
                 "shasum": ""
             },
@@ -6353,12 +6381,12 @@
             ],
             "authors": [
                 {
-                    "name": "Matt Stauffer",
-                    "email": "matt@tighten.co"
-                },
-                {
                     "name": "Daniel Coulbourne",
                     "email": "daniel@tighten.co"
+                },
+                {
+                    "name": "Matt Stauffer",
+                    "email": "matt@tighten.co"
                 }
             ],
             "description": "Generates a Blade directive exporting all of your named Laravel routes. Also provides a nice route() helper function in JavaScript.",
@@ -6458,7 +6486,7 @@
             "authors": [
                 {
                     "name": ":Prosper Otemuyiwa",
-                    "email": "prosperotemuyiwa@",
+                    "email": "prosperotemuyiwa@gmail.com",
                     "homepage": "http://goodheads.io",
                     "role": "Developer"
                 }
@@ -6579,12 +6607,12 @@
             "version": "1.6.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/assert.git",
+                "url": "https://github.com/webmozarts/assert.git",
                 "reference": "573381c0a64f155a0d9a23f4b0c797194805b925"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/573381c0a64f155a0d9a23f4b0c797194805b925",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/573381c0a64f155a0d9a23f4b0c797194805b925",
                 "reference": "573381c0a64f155a0d9a23f4b0c797194805b925",
                 "shasum": ""
             },
@@ -6611,7 +6639,7 @@
             "authors": [
                 {
                     "name": "Bernhard Schussek",
-                    "email": "bschussek@"
+                    "email": "bschussek@gmail.com"
                 }
             ],
             "description": "Assertions to validate method input/output with nice error messages.",
@@ -6682,7 +6710,7 @@
             "authors": [
                 {
                     "name": "Arjay Angeles",
-                    "email": "aqangeles@"
+                    "email": "aqangeles@gmail.com"
                 }
             ],
             "description": "jQuery DataTables API for Laravel 4|5",
@@ -6753,6 +6781,7 @@
                 "psr",
                 "psr-7"
             ],
+            "abandoned": "laminas/laminas-diactoros",
             "time": "2019-08-06T17:53:53+00:00"
         }
     ],
@@ -6800,7 +6829,7 @@
             "authors": [
                 {
                     "name": "Konstantin Kudryashov",
-                    "email": "ever.zet@",
+                    "email": "ever.zet@gmail.com",
                     "homepage": "http://everzet.com"
                 }
             ],
@@ -6915,12 +6944,12 @@
             "version": "1.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/facebook/php-webdriver.git",
+                "url": "https://github.com/php-webdriver/php-webdriver-archive.git",
                 "reference": "e43de70f3c7166169d0f14a374505392734160e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facebook/php-webdriver/zipball/e43de70f3c7166169d0f14a374505392734160e5",
+                "url": "https://api.github.com/repos/php-webdriver/php-webdriver-archive/zipball/e43de70f3c7166169d0f14a374505392734160e5",
                 "reference": "e43de70f3c7166169d0f14a374505392734160e5",
                 "shasum": ""
             },
@@ -6968,6 +6997,7 @@
                 "selenium",
                 "webdriver"
             ],
+            "abandoned": "php-webdriver/webdriver",
             "time": "2019-06-13T08:02:18+00:00"
         },
         {
@@ -7015,8 +7045,8 @@
             "authors": [
                 {
                     "name": "Filipe Dobreira",
-                    "role": "Developer",
-                    "homepage": "https://github.com/filp"
+                    "homepage": "https://github.com/filp",
+                    "role": "Developer"
                 }
             ],
             "description": "php error handling for cool kids",
@@ -7077,6 +7107,7 @@
                 "faker",
                 "fixtures"
             ],
+            "abandoned": true,
             "time": "2019-11-14T13:13:06+00:00"
         },
         {
@@ -7477,6 +7508,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2017-02-27T10:12:30+00:00"
         },
         {
@@ -8465,8 +8497,8 @@
             "authors": [
                 {
                     "name": "Arne Blankerts",
-                    "role": "Developer",
-                    "email": "arne@blankerts.de"
+                    "email": "arne@blankerts.de",
+                    "role": "Developer"
                 }
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
@@ -8486,5 +8518,6 @@
     "platform-dev": [],
     "platform-overrides": {
         "php": "7.1.2"
-    }
+    },
+    "plugin-api-version": "1.1.0"
 }
